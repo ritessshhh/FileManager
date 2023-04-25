@@ -22,7 +22,7 @@ git clone https://github.com/ritessshhh/FileManager
 3. Start Entering commands.
 ```bash
 Starting bash terminal.
-[anyName@Kali]: $
+[user@host]: $
 ```
 
 ## Commands Examples
